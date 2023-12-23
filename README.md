@@ -1,4 +1,6 @@
-### Hi there 👋
+My interests encompass inclusive practices in scientific computing, scientific data models, scientific data & software interoperability, scientific software sustainability engineering, scalable I/O and visualization and analysis tooling and worflows.
+
+I work on [VisIt](visit.llnl.gov), [Silo](silo.llnl.gov), [H5Z-ZFP](https://h5z-zfp.readthedocs.io/en/latest/) and [BSSw.io](bssw.io)
 
 <!--
 **markcmiller86/markcmiller86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
