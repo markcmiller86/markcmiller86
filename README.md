@@ -1,4 +1,4 @@
-My interests encompass inclusive practices in scientific computing, scientific data models, scientific data & software interoperability, scientific software sustainability engineering, scalable I/O and visualization and analysis tooling and workflows.
+My interests encompass scientific data models, scientific data & software interoperability, scientific software sustainability engineering, scalable I/O and visualization and analysis tooling and workflows. In addition, I try to advocate for inclusive practices as a core value throughout the scientific computing community.
 
 I work on [VisIt](https://visit.llnl.gov), [Silo](https://silo.llnl.gov), [H5Z-ZFP](https://h5z-zfp.readthedocs.io/en/latest/) and [BSSw.io](https://bssw.io).
 
